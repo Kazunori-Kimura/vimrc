@@ -65,7 +65,7 @@ if version >= 703
   " アンドゥの保存場所(7.3)
   " set undodir=.
 endif
-" set noswapfile
+set noswapfile
 " viminfoを作成しない
 " set viminfo=
 " クリップボードを共有
